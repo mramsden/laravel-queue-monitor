@@ -2,7 +2,14 @@
     "name": "tremby/laravel-queue-monitor",
     "description": "Laravel queue monitoring tools",
     "require": {
-        "laravel/framework": "~5.0"
+        "illuminate/bus": "5.1.*",
+        "illuminate/cache": "5.1.*",
+        "illuminate/config": "5.1.*",
+        "illuminate/console": "5.1.*",
+        "illuminate/contracts": "5.1.*",
+        "illuminate/queue": "5.1.*",
+        "illuminate/support": "5.1.*",
+        "illuminate/view": "5.1.*"
     },
     "license": "MIT",
     "authors": [
